@@ -1,13 +1,13 @@
 # greenedge.docs
 Training material and labs for GreenEdge
 
-# <img src="./img/msb-logo-big.png" alt="Node.js" />Introduction to [GreenEdge](https://greenedge.axiansiot.com/)
+# Introduction to [GreenEdge](https://greenedge.axiansiot.com/)
 > This training course will help you discover how the greenEdge works and how you use it to keep track of your carbon footprint.
 
 ## [What is GreenEdge?](./GreenEdgeInfo.md)
 Learn more about what the GreenEdge portal supports.
 
-## [Dashboard?](./GreenEdgeDashboard.md)
+## [Dashboard](./GreenEdgeDashboard.md)
 Explanation of the Greenedge dashboard and its components.
 
 <hr/>
@@ -16,3 +16,15 @@ Explanation of the Greenedge dashboard and its components.
 
 ## [Business unit](./BusinessUnit.md): Edit Business unit information
 This module will cover how to view and edit business unit information
+
+## [Site](./Site.md): Manage sites
+Learn how to create/ edit or delete a site in this chapter
+
+## [Emission source](./EmissionSource.md): Manage emission source
+There are two different kind of emission sources. Site related emission sources and non site related emissions sources. Learn how to create/edit and delete the different kind of emission sources.
+
+## [Baseline & budget](./BaselineBudget.md): Create baseline & budget
+Create goals, this section will show how to create a baseline and budget.
+
+## [Actions](./Actions.md): Manage actions
+To follow up your goals, use actions. This module shows how to create/ edit and remove actions.
