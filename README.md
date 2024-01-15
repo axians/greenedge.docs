@@ -29,7 +29,7 @@ To follow up your goals, use actions. This module shows how to create/ edit and 
 ## [Members](./Members.md): Manage members
 Discover how to Add/ edit and remove members.
 
-## [Report manager](./ReportManager.md): 
+## [Report manager](./ReportManager.md): Manage reports
 Learn how to create your own reports based on the collected data
 
 ## [Extra](./Extra.md): Extra
