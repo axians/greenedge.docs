@@ -1,6 +1,3 @@
-# greenedge.docs
-Training material and labs for GreenEdge
-
 # Introduction to [GreenEdge](https://greenedge.axiansiot.com/)
 > This training course will help you discover how the greenEdge works and how you use it to keep track of your carbon footprint.
 
@@ -31,3 +28,12 @@ To follow up your goals, use actions. This module shows how to create/ edit and 
 
 ## [Memmbers](./Memebers.md): Manage members
 Discover how to Add/ edit and remove members.
+
+## [Report manager](./ReportManager.md): 
+Learn how to create your own reports based on the collected data
+
+## [Extra](./Extra.md): Extra
+- How to create a support/bug
+- How to suggest feature
+- (SiteAdmin only) Split business unit
+
