@@ -26,7 +26,7 @@ Create goals, this section will show how to create a baseline and budget.
 ## [Actions](./Actions.md): Manage actions
 To follow up your goals, use actions. This module shows how to create/ edit and remove actions.
 
-## [Memmbers](./Memebers.md): Manage members
+## [Members](./Members.md): Manage members
 Discover how to Add/ edit and remove members.
 
 ## [Report manager](./ReportManager.md): 
