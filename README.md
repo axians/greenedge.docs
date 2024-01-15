@@ -18,7 +18,7 @@ This module will cover how to view and edit business unit information
 Learn how to create/ edit or delete a site in this chapter
 
 ## [Emission source](./EmissionSource.md): Manage emission source
-There are two different kind of emission sources. Site related emission sources and non site related emissions sources. Learn how to create/edit and delete the different kind of emission sources.
+There are two different kind of emission sources. Site related emission sources and non site related emissions sources. Learn how to create/edit and delete emission sources.
 
 ## [Baseline & budget](./BaselineBudget.md): Create baseline & budget
 Create goals, this section will show how to create a baseline and budget.
