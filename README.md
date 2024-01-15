@@ -35,5 +35,5 @@ Learn how to create your own reports based on the collected data
 ## [Extra](./Extra.md): Extra
 - How to create a support/bug
 - How to suggest feature
+- Monthly report
 - (SiteAdmin only) Split business unit
-
