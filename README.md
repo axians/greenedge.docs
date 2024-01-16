@@ -1,7 +1,7 @@
 # Introduction to [GreenEdge](https://greenedge.axiansiot.com/)
 > This training course will help you discover how the greenEdge works and how you use it to keep track of your carbon footprint.
 
-## [What is GreenEdge?](./GreenEdgeInfo.md)
+## [What is GreenEdge?](introduction/introduction.md)
 Learn more about what the GreenEdge portal supports.
 
 ## [Dashboard](./GreenEdgeDashboard.md)
