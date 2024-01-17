@@ -4,7 +4,7 @@
 ## [What is GreenEdge?](introduction/introduction.md)
 Learn more about what the GreenEdge portal supports.
 
-## [Dashboard](./GreenEdgeDashboard.md)
+## [Dashboard](introduction/dashboard.md)
 Explanation of the Greenedge dashboard and its components.
 
 <hr/>
