@@ -13,7 +13,8 @@ To be able to manage your business unit: go to admin page by clicking on *settin
 
 ## Change brand
 
-1. To change your brand click on the *CHANGE* button, under the business unit section. 
+1. To change your brand click on the **CHANGE** button, under the business unit section. 
+1. To change your brand click on the `CHANGE` button, under the business unit section. 
 2. Select brand in the dropdopwn
 3. Click on *save*.
 
@@ -29,3 +30,5 @@ To be able to manage your business unit: go to admin page by clicking on *settin
 
 1. Click on the button *CHANGE IMAGE* under the business unit section.
 2. Select your image and click on *upload*
+
+<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>

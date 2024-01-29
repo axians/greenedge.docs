@@ -11,3 +11,5 @@ permalink: /dashboard
 
 Througout this course we will go through all aspects of GreeEdge, such as *Sites*, *Emissions*, *Reporting*, *Budgets* and more.
 
+<a class="offset-4 btn btn-success btn-lg" href="/dashboard-lab" role="button">Go to lab</a>
+<a class="btn btn-info btn-lg" href="/" role="button">Back</a>

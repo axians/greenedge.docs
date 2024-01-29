@@ -10,3 +10,5 @@ permalink: /members-lab
 **GreenEdge** is made to give controll of your carbon emission footprint by automating the process of collecting the emissions.
 
 Througout this course we will go through all aspects of GreeEdge, such as *Sites*, *Emissions*, *Reporting*, *Budgets* and more.
+
+<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
