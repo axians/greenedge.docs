@@ -1,39 +1,33 @@
-# Introduction to [GreenEdge](https://greenedge.axiansiot.com/)
-> This training course will help you discover how the greenEdge works and how you use it to keep track of your carbon footprint.
+# Welcome to *GreenEdge* docs
 
-## [What is GreenEdge?](introduction/introduction.md)
-Learn more about what the GreenEdge portal supports.
+## To update the documentation, please follow these steps
 
-## [Dashboard](./GreenEdgeDashboard.md)
-Explanation of the Greenedge dashboard and its components.
+### Layouts
+All posts have *layouts* specified in the header. The structure of the layouts can be found and edited in the **_layouts** directory.
 
-<hr/>
 
-# Getting started
+### New post
+All posts are found under the **_post** directory, and should be named [DATE]-[name-of-post].md. Post also need a header at the top E.g.:
 
-## [Business unit](./BusinessUnit.md): Edit Business unit information
-This module will cover how to view and edit business unit information
+```
+---
+layout: post
+title:  "Edit Business unit information"
+category: business-unit
+permalink: /business-unit
+---
+```
+All pages get rendered to html and can be found under the **_site** direcory
 
-## [Site](./Site.md): Manage sites
-Learn how to create/ edit or delete a site in this chapter
+All *posts* should have a lab, which should get accessed through a button on the bottom of the page:
 
-## [Emission source](./EmissionSource.md): Manage emission source
-There are two different kind of emission sources. Site related emission sources and non site related emissions sources. Learn how to create/edit and delete emission sources.
+``` html
+<a class="offset-5 btn btn-success btn-lg" href="/business-unit-lab" role="button">Go to lab</a>
+``` 
 
-## [Baseline & budget](./BaselineBudget.md): Create baseline & budget
-Create goals, this section will show how to create a baseline and budget.
+### Images
+Images should be saved in the **assets** directory and can be use as:
 
-## [Actions](./Actions.md): Manage actions
-To follow up your goals, use actions. This module shows how to create/ edit and remove actions.
-
-## [Members](./Members.md): Manage members
-Discover how to Add/ edit and remove members.
-
-## [Report manager](./ReportManager.md): Manage reports
-Learn how to create your own reports based on the collected data
-
-## [Extra](./Extra.md): Extra
-- How to create a support/bug
-- How to suggest feature
-- Monthly report
-- (SiteAdmin only) Split business unit
+```
+<img src="assets/images/edit-business-unit-lab.PNG">
+```
