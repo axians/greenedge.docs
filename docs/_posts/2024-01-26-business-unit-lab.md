@@ -9,7 +9,7 @@ permalink: /business-unit-lab
 In this lab you will understand how to edit your business unit information. 
 To be able to manage your business unit: go to admin page by clicking on *settings* in the upper right corner of the dashboard and login.
 
-<img src="/images/edit-business-unit-lab.PNG">
+<img src="assets/images/edit-business-unit-lab.PNG">
 
 ## Change brand
 
