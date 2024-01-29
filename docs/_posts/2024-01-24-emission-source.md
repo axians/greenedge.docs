@@ -10,7 +10,7 @@ permalink: /emission-source
 
 <img src="assets/images/emission-source-1.png">
 
-> CO2-e stands for "Carbon Dioxide Equivalent". It is a standard unit for measuring carbon footprints. The idea is to express the impact of each different greenhouse gas in terms of the amount of CO2 that would create the same amount of warming12.
+> CO2-e stands for "Carbon Dioxide Equivalent". It is a standard unit for measuring carbon footprints. The idea is to express the impact of each different greenhouse gas in terms of the amount of CO2 that would create the same amount of warming.
 
 ## Collection of emissions
 > It is important to understand that emissions are collected in its original *Unit* and *Scale*. For instance, *Diesel* as an Emission source, might be collected as “Km” and needs to be converted into “CO2-e”. More on this in the “Emission factor” section further down.   
