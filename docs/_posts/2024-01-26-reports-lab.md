@@ -53,7 +53,7 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 3. Edit your report by changing the information in the different tabs Common, Query, Data, View.
 4. Click on `Save` once done.
 
-## 2. Delete report
+## 3. Delete report
 
 <img src="assets/images/report-manager-lab-9.PNG">
 

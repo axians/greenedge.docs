@@ -19,7 +19,7 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 2. Fill in a vinci email and select a role for the member. Super user is only for members that need more complex functions in GreenEdge, like splitting business units or setting up file import settings.
 3. Click on `ADD MEMBER`
 
-## 1. Edit/ remove member
+## 2. Edit/ remove member
 
 <img src="assets/images/edit-member-lab-1.PNG">
 
