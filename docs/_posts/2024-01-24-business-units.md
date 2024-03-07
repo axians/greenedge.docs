@@ -5,7 +5,7 @@ category: business-unit
 permalink: /business-units
 ---
 
-*The Business unit is the canter of GreenEdge. A Business unit represents the organizational entity where emissions are managed and reported. A Business unit may have any number of Emission sources and one or more Sites.*
+*The Business unit is the center of GreenEdge. A Business unit represents the organizational entity where emissions are managed and reported. A Business unit may have any number of Emission sources and one or more Sites.*
 
 > The information about the Business unit, may or not be editable. This is because this information may feed into GreenEdge from an external system. 
 

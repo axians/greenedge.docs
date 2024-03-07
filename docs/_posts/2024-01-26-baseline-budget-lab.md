@@ -28,6 +28,10 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 
 2. Click on `ADD BUDGET`. GreenEdge will then calculate your yearly budget from 2019.
 
+## (Remove baseline)
+
+To remove your business units baseline, click on `Remove baseline`. But this will also remove your created budgets and actions, since they are linked togheter. 
+
 
 
 <a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
