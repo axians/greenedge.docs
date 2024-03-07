@@ -49,4 +49,4 @@ Your organization has an overall goal of how to lower the carbon emission footpr
 
 Each *Business unit* is given individual budgets aligned with the overall goal. To meet the budget, *Business units* needs to define a number of *Actions*. For instance, an *Action* might be "Switch all lamps to led", or "Only use HVO100 for service vehicles"
 
-<a class="offset-5 btn btn-success btn-lg" href="/" role="button">Back</a>
+<a class="offset-5 btn btn-success btn-lg" href="{{site.baseurl}}" role="button">Back</a>

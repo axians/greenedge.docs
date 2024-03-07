@@ -29,4 +29,4 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 1. Click on the button `CHANGE IMAGE` under the business unit section.
 2. Select your image and click on `Upload`
 
-<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
+<a class="offset-4 btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Home</a>

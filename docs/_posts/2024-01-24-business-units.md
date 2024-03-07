@@ -28,5 +28,5 @@ When navigating to the *Settings* page you are presented a drop-list at the top 
 
 
 
-<a class="offset-4 btn btn-success btn-lg" href="/business-unit-lab" role="button">Go to lab</a>
-<a class="btn btn-info btn-lg" href="/" role="button">Back</a>
+<a class="offset-4 btn btn-success btn-lg" href="{{site.baseurl}}/business-unit-lab" role="button">Go to lab</a>
+<a class="btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Back</a>
