@@ -32,4 +32,4 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 3. To remove your action, click on `EDIT` and on `DELETE ACTION`.
 
 
-<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
+<a class="offset-4 btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Home</a>

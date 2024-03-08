@@ -51,5 +51,5 @@ Every Emission source need to have a **Factor** which is used transform the coll
 
 
 
-<a class="offset-4 btn btn-success btn-lg" href="/emission-source-lab" role="button">Go to lab</a>
-<a class="btn btn-info btn-lg" href="/" role="button">Back</a>
+<a class="offset-4 btn btn-success btn-lg" href="{{site.baseurl}}/emission-source-lab" role="button">Go to lab</a>
+<a class="btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Back</a>

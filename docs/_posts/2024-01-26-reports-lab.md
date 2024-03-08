@@ -62,4 +62,4 @@ To be able to manage your business unit: go to admin page by clicking on `settin
 3. Click on `Delete report` button under the section Common.
 
 
-<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
+<a class="offset-4 btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Home</a>
