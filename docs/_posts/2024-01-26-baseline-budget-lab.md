@@ -34,4 +34,4 @@ To remove your business units baseline, click on `Remove baseline`. But this wil
 
 
 
-<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
+<a class="offset-4 btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Home</a>

@@ -95,4 +95,4 @@ An emssion source can´t be removed from your business unit, but disabled. This 
 3. Locate your import by looking at imported time and imported by. Click on `DELETE RECORDS`
 
 
-<a class="offset-4 btn btn-info btn-lg" href="/" role="button">Home</a>
+<a class="offset-4 btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Home</a>

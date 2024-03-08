@@ -19,5 +19,5 @@ When baseline has been set, a budget will be created for each year up until next
 emission goal for that specific year, to be able to reach the longterm goal.
 
 
-<a class="offset-4 btn btn-success btn-lg" href="/baseline-budget-lab" role="button">Go to lab</a>
-<a class="btn btn-info btn-lg" href="/" role="button">Back</a>
+<a class="offset-4 btn btn-success btn-lg" href="{{site.baseurl}}/baseline-budget-lab" role="button">Go to lab</a>
+<a class="btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Back</a>

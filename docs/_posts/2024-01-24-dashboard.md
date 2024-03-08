@@ -41,4 +41,4 @@ The barometer widget is intended to show the current state of an Organization or
 
 > This module has no labs, but feel free to visit your GreenEdge instance and familiarize yourself with its content.
 
-<a class="offset-5 btn btn-info btn-lg" href="/" role="button">Back</a>
+<a class="btn btn-info btn-lg" href="{{site.baseurl}}" role="button">Back</a>
